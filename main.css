@@ -1,16 +1,9 @@
-h1 {
-    position: fixed;
-    color: whitesmoke;
-}
 
-h2 {
-    position: fixed;
-    color: whitesmoke;
-}
 body {
     background-image: url("zane-lee-IHj0xtWtLKE-unsplash.jpg");
     background-repeat: no-repeat;
     background-size: auto;
+    color: #f5f5f5;
     
    }
 
